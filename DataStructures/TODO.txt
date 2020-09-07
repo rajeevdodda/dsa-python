@@ -1,0 +1,4 @@
+=> Selection Algorithm to find Kth largest element in an Sequence.
+=> Efficient algorithm for finding the ten largest elements in a sequence of size n.
+=> finding both the minimum and maximum of n numbers using fewer than 3n/2 comparisons.
+=> 
